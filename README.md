@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Passionate about cybersecurity, I am a Pentester, Ethical Hacker, and Software Developer dedicated to exploring and securing digital systems. With experience in penetration testing and software development, I specialize in identifying vulnerabilities and strengthening security defenses. Whether solving challenges on Hack The Box or crafting efficient code, I am committed to continuous learning and ethical hacking practices."
+Passionate about cybersecurity, I am a Pentester, Ethical Hacker, and Software Developer dedicated to exploring and securing digital systems. With experience in penetration testing and software development, I specialize in identifying vulnerabilities and strengthening security defenses. Whether solving challenges on Hack The Box or crafting efficient code, I am committed to continuous learning and ethical hacking practices.
 
 
 ## 🌐 Socials:

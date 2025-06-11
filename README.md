@@ -1,7 +1,3 @@
-# 💫 About Me:
-Passionate about cybersecurity, I am a Pentester and Software Developer dedicated to exploring and securing digital systems. With experience in penetration testing and software development, I specialize in identifying vulnerabilities and strengthening security defenses. Whether solving challenges on Hack The Box or crafting efficient code, I am committed to continuous learning and ethical hacking practices.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrián-leal-castaño-4074122b7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alealcastanio@gmail.com) 
 
